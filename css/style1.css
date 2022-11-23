@@ -49,6 +49,11 @@ p {
     text-decoration: none;
     color: white;
     font-family: bodyfont;
+    
+}
+
+#infor ul li a:hover {
+  font-weight: 700;
 }
 #infor ul {
     padding-right: 5%;
@@ -367,3 +372,7 @@ i {
   margin-top: 1rem;
 }
 
+.quote-project {
+  border-left: 3px solid white;
+  padding-left: 5px;
+}
