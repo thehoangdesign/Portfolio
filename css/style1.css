@@ -1,6 +1,6 @@
 
 * {
-  background-color: black;
+  background-color: #464A5E;
   color: white;
 }
 
@@ -16,7 +16,7 @@ html {
 }
 
 body {
-  background-color: black !important;
+  background-color: #464A5E !important;
   color: white;
 }
 p {
@@ -175,7 +175,7 @@ p {
     
 }
 
-.Aboutme-subtext {
+.Aboutme-subtext,.img-main {
   margin-top: 5rem;
 }
 
@@ -241,7 +241,7 @@ bottom: 20%;
 }
 
  h1.Project:before {
-  content: "Project" !important;
+  content: "Projects" !important;
 }
 
 /* project momo */
